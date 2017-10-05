@@ -1,6 +1,7 @@
 package com.myftiu.demo.reactive.service;
 
-import dto.Event;
+
+import com.myftiu.demo.reactive.dto.Event;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.MediaType;

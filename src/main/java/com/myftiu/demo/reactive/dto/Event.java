@@ -1,4 +1,4 @@
-package dto;
+package com.myftiu.demo.reactive.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

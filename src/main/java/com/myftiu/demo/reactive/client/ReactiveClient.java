@@ -1,6 +1,7 @@
-package client;
+package com.myftiu.demo.reactive.client;
 
-import dto.Event;
+
+import com.myftiu.demo.reactive.dto.Event;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
